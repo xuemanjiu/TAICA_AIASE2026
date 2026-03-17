@@ -20,7 +20,7 @@
 ---
 
 ## Announcement
-- We summarize [HW1 result here](homeworks/HW1_result/index.html). Details of each student will be checked and sent to each individual soon.
+- We summarize [HW1 result here](https://ktchuang.github.io/TAICA_AIASE2026/homeworks/HW1_result/). Details of each student will be checked and sent to each individual soon.
 - 3/18 Invited Talk
  <p align="center">
   <img src="318_invitedtalk.png" width="300">
